@@ -4,6 +4,8 @@ Projeto escolar de matemática que usa o **modelo de Poisson** e a técnica de *
 
 O script roda diretamente no **Google Sheets** (sem instalar nada) e funciona no computador, celular e **iPad**.
 
+> Quer entender tudo o que o código faz em linguagem simples? Veja o documento [**EXPLICACAO.md**](./EXPLICACAO.md).
+
 ---
 
 ## Como funciona
